@@ -1,0 +1,7 @@
+{
+  "name": "webAppRickyAndMorty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
